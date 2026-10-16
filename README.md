@@ -1,1 +1,1 @@
-# ProximityPIG
+# PIGProximity
